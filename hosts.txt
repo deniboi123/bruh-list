@@ -356,3 +356,13 @@
 127.0.0.1 ads.img.co.za
 127.0.0.1 ads.imgur.com
 127.0.0.1 ads.independent.com.mt
+127.0.0.1 ads.stackoverflow.com
+127.0.0.1 ads.sun.com
+127.0.0.1 ads.suomiautomaatti.com
+127.0.0.1 ads.supplyframe.com
+127.0.0.1 ads.syscdn.de
+127.0.0.1 ads.tahono.com
+127.0.0.1 ads.themovienation.com
+127.0.0.1 ads.thestar.com
+127.0.0.1 ads.thrillsaffiliates.com
+127.0.0.1 ads.tiktok.com
